@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/franklinserif/count.svg?"  />
-</div>
-
 ###
 
 <p align="left">👋 Hi there! I'm a passionate Fullstack Developer with a strong focus on modern web technologies. My expertise lies in building scalable, efficient, and user-friendly applications using JavaScript/TypeScript, React, Node.js, Next.js, Nest.js, and AWS.<br><br>I thrive on solving complex problems and delivering high-quality solutions that align with both user needs and business goals. Whether it's crafting seamless front-end experiences or architecting robust back-end systems, I enjoy every step of the development process.<br><br>Here, you'll find a collection of my projects, contributions, and experiments that showcase my journey as a developer. Feel free to explore, collaborate, or reach out—I'm always open to new opportunities and exciting challenges!<br><br>Let's build something amazing together! 🚀</p>
